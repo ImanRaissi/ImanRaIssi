@@ -1,6 +1,7 @@
 ## Iman Raissi-Dehkordi 
 
 **"When the well's dry, we know the worth of water."**
+I like learning about new technologies.
 
 [![GitHub Badge](https://img.shields.io/github/followers/ImanRaissi?style=social)](https://github.com/ImanRaissi?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/iman-raissi50b7a61b4/)
@@ -16,6 +17,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![GEE](https://img.shields.io/badge/GEE-%232671E5.svg?style=for-the-badge&logo=GEE&logoColor=white)
+
 
 ---
 **At present, my main interests are:**
