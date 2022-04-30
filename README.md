@@ -2,8 +2,8 @@
 
 **"When the well's dry, we know the worth of water."**
 
-- Water resource management | TMU
-- Civil Engineer | IUST
+- Water resource management | [TMU](https://www.usnews.com/education/best-global-universities/tarbiat-modares-university-528825)
+- Civil Engineer | [IUST](https://www.timeshighereducation.com/world-university-rankings/iran-university-science-and-technology)
 
 ### Iman Raissi-Dehkordi
 
