@@ -16,7 +16,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![GEE](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=blue)
+![Google Earth Engine](https://img.shields.io/badge/Google Earth Engine-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ---
 **At present, my main interests are:**
 
