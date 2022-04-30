@@ -14,9 +14,9 @@
 ---
 **At present, my main interests are:**
 
-- 🌏: Climate Change
-- 🍃: Evapotranspiration
-- 📊: Water Accounting
+- 🌏 Climate Change
+- 🍃 Evapotranspiration
+- 📊 Water Accounting
 
 ---
 
