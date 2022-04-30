@@ -12,6 +12,7 @@
 - Civil Engineer | [IUST](https://www.timeshighereducation.com/world-university-rankings/iran-university-science-and-technology)
 - 
 ---
-[github stats](https://github-readme-stats.vercel.app/api?username=ImanRaissi&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImanRaissi&langs_count=3&hide=javascript,go,html,css,tex)
+[github stats](https://github-readme-stats.vercel.app/api?username=ImanRaissi&show_icons=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImanRaissi&hide_langs_below=10) -->
