@@ -8,15 +8,6 @@ I like learning about new technologies.
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/iman-raissi50b7a61b4/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ImanRaissi.ImanRaissi)
 
-<p align="center">
-    <a href="My skills">View My skills</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
-  </p>
-  <p align="center">
-
 
 
 - Water resource management | [TMU](https://www.usnews.com/education/best-global-universities/tarbiat-modares-university-528825)
