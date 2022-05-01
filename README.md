@@ -6,6 +6,7 @@ I like learning about new technologies.
 
 [![GitHub Badge](https://img.shields.io/github/followers/ImanRaissi?style=social)](https://github.com/ImanRaissi?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/iman-raissi50b7a61b4/)
+[![ResearchGate Badge](https://img.shields.io/badge/My-LinkedIn-brightgreen)](https://www.researchgate.net/profile/Iman-Dehkordi)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ImanRaissi.ImanRaissi)
 
 
