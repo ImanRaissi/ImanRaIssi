@@ -33,7 +33,7 @@ I like learning about new technologies.
 [![Iman's github stats](https://github-readme-stats.vercel.app/api?username=ImanRaissi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=giswqs&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide=javascript,go,html,css,tex)
+![github stats](https://github-readme-stats.vercel.app/api?username=ImanRaissi&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImanRaissi&langs_count=3&hide=javascript,go,html,css,tex)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImanRaissi&hide_langs_below=10) -->
