@@ -25,9 +25,9 @@ I like learning about new technologies.
 ---
 **At present, my main interests are:**
 
-- 🌏 Climate Change
-- 🍃 Evapotranspiration
-- 📊 Water Accounting
+- 🌏 Water and environmental system analysis
+- 🍃 Hydrology & Hydrometeorology
+- 📊 Application of remote sensing and GIS for environmental monitoring
 
 ---
 
