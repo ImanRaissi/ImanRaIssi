@@ -23,7 +23,7 @@ I like learning about new technologies.
 
 
 ---
-**At present, my main interests are:**
+**At this time, my main interests are:**
 
 - 🌏 Water and environmental system analysis
 - 🍃 Hydrology & Hydrometeorology
