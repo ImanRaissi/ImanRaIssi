@@ -23,12 +23,5 @@ I like learning about new technologies.
 
 
 ---
-**At this time, my main interests are:**
-
-- 🌏 Water and environmental system analysis
-- 🍃 Hydrology & Hydrometeorology
-- 📊 Application of remote sensing and GIS for environmental monitoring
-
----
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ImanRaissi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
